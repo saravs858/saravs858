@@ -1,16 +1,19 @@
-### Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DC77FF&height=120&section=header"/>
 
-<!--
-**saravs858/saravs858** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Oii! Eu sou a *Sara Vieira* 💜🦋
 
-Here are some ideas to get you started:
+<div>
+<a href="https://github.com/saravs858/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=saravs858&show_icons=true&theme=tokyonight"/>
+</a>
+</div>
+
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
