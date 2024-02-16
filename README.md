@@ -1,11 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DC77FF&height=120&section=header"/>
 
-## Oii! Eu sou a *Sara Vieira* 💜🦋
+# Oii! Eu sou a *Sara Vieira* 💜🦋
 
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 📫 How to reach me: ...
+- 🔭 Estudante do Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)
+- 🌱 Estou aprendendo Java e JavaScript
 - ⚡ Fun fact: ...
 
 ##
@@ -17,6 +15,15 @@
 </a>
 </div>
 
+##
+</div>
+
+<div> 
+
+  <a href="https://instagram.com/sarav.808" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+   <a href = "mailto:drasara2018@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 <br><br>
 
@@ -25,5 +32,12 @@
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
   
 </div><br>
+
+<br>
+<div align="center">
+<br>
+<p align="center"><img width="19%" align="center" src="https://profile-counter.glitch.me/{sara vieira}/count.svg" /></p> 
+</div>
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DC77FF&height=120&section=footer"/>
