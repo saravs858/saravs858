@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DC77FF&height=120&section=header"/>
 
-# Oii! Eu sou a *Sara Vieira* 💜🦋
+ #  Oii! Eu sou a *Sara Vieira* 💜🦋
 
 - 🔭 Estudante do Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)
 - 🌱 Estou aprendendo Java e JavaScript
@@ -16,8 +16,12 @@
 </div>
 
 ##
-</div>
+<div style="display: inline_block">
+   <img align="center" alt="Sara-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   <img align="center" alt="Sara-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+   <img align="center" alt="Sara-Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 
+##
 <div> 
 
   <a href="https://instagram.com/sarav.808" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
